@@ -1,0 +1,99 @@
+Protel Design System Design Rule Check
+PCB File : E:\公司资料\黑龙江天有为\3、PCB资料\电源控制板 V1.3\电源控制板 V1.3\电源控制板.PcbDoc
+Date     : 2022/1/14
+Time     : 14:57:01
+
+WARNING: Zero hole size multi-layer pad(s) detected
+   Pad Free-8(5.08mm,27.94mm) on Multi-Layer on Net VCC13V
+   Pad Free-20(83.82mm,10.16mm) on Multi-Layer on Net VCC13V_OUT2
+   Pad Free-20(63.5mm,10.16mm) on Multi-Layer on Net VCC13V_OUT1
+   Pad Free-1(5.08mm,17.78mm) on Multi-Layer on Net GND
+   Pad Free-12(4.975mm,45mm) on Multi-Layer on Net CAN_L
+   Pad Free-1(5.08mm,55.88mm) on Multi-Layer on Net CAN_H
+
+WARNING: Multilayer Pads with 0 size Hole found
+   Pad Free-8(5.08mm,27.94mm) on Multi-Layer
+   Pad Free-20(83.82mm,10.16mm) on Multi-Layer
+   Pad Free-20(63.5mm,10.16mm) on Multi-Layer
+   Pad Free-1(5.08mm,17.78mm) on Multi-Layer
+   Pad Free-12(4.975mm,45mm) on Multi-Layer
+   Pad Free-1(5.08mm,55.88mm) on Multi-Layer
+
+Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=1.5mm) (Max=2.032mm) (Preferred=1.5mm) (InNet('VCC13V_OUT2'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=1.5mm) (Max=2.032mm) (Preferred=1.5mm) (InNet('VCC13V'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=1.5mm) (Max=2.032mm) (Preferred=1.5mm) (InNet('VCC13V_OUT1'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=1.016mm) (Max=2.032mm) (Preferred=1.016mm) (InNet('NetBD4275_4'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=2.032mm) (Preferred=0.254mm) (InNet('VCC5V0'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.254mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=1.016mm) (Max=2.032mm) (Preferred=1.016mm) (InNet('NetBD4275_2'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=1.016mm) (Max=2.032mm) (Preferred=1.016mm) (InNet('NetD1_2'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=1.016mm) (Max=2.032mm) (Preferred=1.016mm) (InNet('NetBD4275_1'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=3.81mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.127mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.025mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.102mm) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (0.064mm < 0.102mm) Between Pad BD4275-0(18.542mm,55.016mm) on Top Layer And Track (12.395mm,49.428mm)(12.395mm,60.604mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.064mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad BD4275-0(18.542mm,55.016mm) on Top Layer And Track (12.395mm,49.428mm)(28.448mm,49.428mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad BD4275-0(18.542mm,55.016mm) on Top Layer And Track (12.395mm,60.604mm)(28.448mm,60.604mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad BD4275-1(27.94mm,51.613mm) on Top Layer And Track (28.448mm,49.428mm)(28.448mm,60.604mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad BD4275-2(27.94mm,53.315mm) on Top Layer And Track (28.448mm,49.428mm)(28.448mm,60.604mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad BD4275-3(27.94mm,55.016mm) on Top Layer And Track (28.448mm,49.428mm)(28.448mm,60.604mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad BD4275-4(27.94mm,56.718mm) on Top Layer And Track (28.448mm,49.428mm)(28.448mm,60.604mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad BD4275-5(27.94mm,58.42mm) on Top Layer And Track (28.448mm,49.428mm)(28.448mm,60.604mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad Free-1(5.08mm,17.78mm) on Multi-Layer And Text "R1" (7.62mm,17.78mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad R1-1(12.852mm,25.4mm) on Multi-Layer And Track (12.822mm,22.095mm)(12.822mm,24.635mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.098mm < 0.102mm) Between Pad R1-2(12.822mm,6.302mm) on Multi-Layer And Track (12.822mm,6.855mm)(12.822mm,9.395mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.098mm]
+Rule Violations :11
+
+Processing Rule : Silk to Silk (Clearance=0.127mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 11
+Waived Violations : 0
+Time Elapsed        : 00:00:00

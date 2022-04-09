@@ -1,0 +1,6 @@
+Remove Pin=J1-3 From Net=±à³Ì2
+Change Component Comment: Designator=Y1 Old Comment=4M New Comment=Comment
+Change Component Comment: Designator=R1 Old Comment=8R2-2W New Comment=Comment
+Change Component Comment: Designator=U1 Old Comment=TJA1040 New Comment=Comment
+Change Pin Designator/Name:  Old Designator=R1-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=R1-2 Old Name=2 New Designator =1 New Name=1

@@ -1,0 +1,64 @@
+Protel Design System Design Rule Check
+PCB File : E:\公司资料\黑龙江天有为\3、PCB资料\电源控制板 V1.0\电源控制板.PcbDoc
+Date     : 2021/12/18
+Time     : 13:57:52
+
+WARNING: Zero hole size multi-layer pad(s) detected
+   Pad Free-20(3530mil,2680mil) on Multi-Layer on Net VCC13V_OUT1
+   Pad Free-20(4345mil,2650mil) on Multi-Layer on Net VCC13V_OUT2
+   Pad Free-16(1125mil,3045mil) on Multi-Layer on Net GND
+   Pad Free-12(1130mil,3520mil) on Multi-Layer on Net VCC13V
+   Pad Free-1(1150mil,4630mil) on Multi-Layer on Net CAN_H
+   Pad Free-8(1145mil,4330mil) on Multi-Layer on Net CAN_L
+
+WARNING: Multilayer Pads with 0 size Hole found
+   Pad Free-20(3530mil,2680mil) on Multi-Layer
+   Pad Free-20(4345mil,2650mil) on Multi-Layer
+   Pad Free-16(1125mil,3045mil) on Multi-Layer
+   Pad Free-12(1130mil,3520mil) on Multi-Layer
+   Pad Free-1(1150mil,4630mil) on Multi-Layer
+   Pad Free-8(1145mil,4330mil) on Multi-Layer
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=80mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=150mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=5mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=1mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=4mil) (Disabled)(IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=5mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:00

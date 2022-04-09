@@ -1,0 +1,227 @@
+Added Component: Designator=BD4275(TO-263)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C1(RB.1/.25)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "value"; Value = "50V-104-0805"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "value"; Value = "50V-104-0805"; VariantName = "[No Variations]"
+Added Component: Designator=C4(RB.1/.25)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C5(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "value"; Value = "50V-104-0805"; VariantName = "[No Variations]"
+Added Component: Designator=C6(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "value"; Value = "50V-104-0805"; VariantName = "[No Variations]"
+Added Component: Designator=C7(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "value"; Value = "50V-104-0805"; VariantName = "[No Variations]"
+Added Component: Designator=C8(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "value"; Value = "50V-104-0805"; VariantName = "[No Variations]"
+Added Component: Designator=C9(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "value"; Value = "50V-104-0805"; VariantName = "[No Variations]"
+Added Component: Designator=C10(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "50V-22P-0805"; VariantName = "[No Variations]"
+Added Component: Designator=C11(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "50V-22P-0805"; VariantName = "[No Variations]"
+Added Component: Designator=C12(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "value"; Value = "50V-104-0805"; VariantName = "[No Variations]"
+Added Component: Designator=C13(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "value"; Value = "50V-102-0805"; VariantName = "[No Variations]"
+Added Component: Designator=C14(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "value"; Value = "50V-104-0805"; VariantName = "[No Variations]"
+Added Component: Designator=C15(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "value"; Value = "100V-47P-0805"; VariantName = "[No Variations]"
+Added Component: Designator=C16(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "value"; Value = "100V-47P-0805"; VariantName = "[No Variations]"
+Added Component: Designator=D1(M7-A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J1(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=K1(SDK-052D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "MODULE4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=K2(SDK-052D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "MODULE4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(1206-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LED2(1206-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LED3(1206-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(2WR)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "value"; Value = "4K7-0805- 5%"; VariantName = "[No Variations]"
+Added Component: Designator=R3(0805_2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "value"; Value = "510-0805- 5%"; VariantName = "[No Variations]"
+Added Component: Designator=R4(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "value"; Value = "1M-0805-5%"; VariantName = "[No Variations]"
+Added Component: Designator=R5(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "value"; Value = "10K-0805-5%"; VariantName = "[No Variations]"
+Added Component: Designator=R6(1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "value"; Value = "62R-1206-1%"; VariantName = "[No Variations]"
+Added Component: Designator=R7(1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "value"; Value = "62R-1206-1%"; VariantName = "[No Variations]"
+Added Component: Designator=R8(0805_2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "value"; Value = "1KΩ-0805- 5%"; VariantName = "[No Variations]"
+Added Component: Designator=R9(0805_2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "value"; Value = "1KΩ-0805- 5%"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SO-8)
+Add component. Clean all parameters for all variants
+Added Component: Designator=XHY64(QUAD100)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Y1(16M)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=CAN_H Pin=C15-2
+Added Pin To Net: NetName=CAN_H Pin=R6-2
+Added Pin To Net: NetName=CAN_H Pin=U1-7
+Added Net: Name=CAN_H
+Added Pin To Net: NetName=CAN_L Pin=C16-2
+Added Pin To Net: NetName=CAN_L Pin=R7-2
+Added Pin To Net: NetName=CAN_L Pin=U1-6
+Added Net: Name=CAN_L
+Added Pin To Net: NetName=CAN_唤醒 Pin=U1-4
+Added Pin To Net: NetName=CAN_唤醒 Pin=XHY64-27
+Added Net: Name=CAN_唤醒
+Added Pin To Net: NetName=GND Pin=BD4275-0
+Added Pin To Net: NetName=GND Pin=BD4275-3
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=K1-4
+Added Pin To Net: NetName=GND Pin=K2-4
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=XHY64-8
+Added Pin To Net: NetName=GND Pin=XHY64-18
+Added Pin To Net: NetName=GND Pin=XHY64-61
+Added Pin To Net: NetName=GND Pin=XHY64-70
+Added Pin To Net: NetName=GND Pin=XHY64-71
+Added Pin To Net: NetName=GND Pin=XHY64-91
+Added Net: Name=GND
+Added Pin To Net: NetName=NetBD4275_1 Pin=BD4275-1
+Added Pin To Net: NetName=NetBD4275_1 Pin=C1-1
+Added Pin To Net: NetName=NetBD4275_1 Pin=C2-2
+Added Pin To Net: NetName=NetBD4275_1 Pin=R1-2
+Added Net: Name=NetBD4275_1
+Added Pin To Net: NetName=NetBD4275_2 Pin=BD4275-2
+Added Pin To Net: NetName=NetBD4275_2 Pin=R2-1
+Added Net: Name=NetBD4275_2
+Added Pin To Net: NetName=NetBD4275_4 Pin=BD4275-4
+Added Pin To Net: NetName=NetBD4275_4 Pin=C3-2
+Added Net: Name=NetBD4275_4
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R1-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetLED1_1 Pin=R3-1
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=R7-1
+Added Pin To Net: NetName=NetR6_1 Pin=U1-5
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=TJA1040_STB Pin=U1-8
+Added Pin To Net: NetName=TJA1040_STB Pin=XHY64-38
+Added Net: Name=TJA1040_STB
+Added Pin To Net: NetName=TXCAN Pin=U1-1
+Added Pin To Net: NetName=TXCAN Pin=XHY64-28
+Added Net: Name=TXCAN
+Added Pin To Net: NetName=VCC5V0 Pin=BD4275-5
+Added Pin To Net: NetName=VCC5V0 Pin=C4-1
+Added Pin To Net: NetName=VCC5V0 Pin=C5-2
+Added Pin To Net: NetName=VCC5V0 Pin=C6-2
+Added Pin To Net: NetName=VCC5V0 Pin=C7-1
+Added Pin To Net: NetName=VCC5V0 Pin=C8-1
+Added Pin To Net: NetName=VCC5V0 Pin=C9-2
+Added Pin To Net: NetName=VCC5V0 Pin=C12-1
+Added Pin To Net: NetName=VCC5V0 Pin=C14-2
+Added Pin To Net: NetName=VCC5V0 Pin=J1-1
+Added Pin To Net: NetName=VCC5V0 Pin=R2-2
+Added Pin To Net: NetName=VCC5V0 Pin=R3-2
+Added Pin To Net: NetName=VCC5V0 Pin=R5-2
+Added Pin To Net: NetName=VCC5V0 Pin=U1-3
+Added Pin To Net: NetName=VCC5V0 Pin=XHY64-7
+Added Pin To Net: NetName=VCC5V0 Pin=XHY64-17
+Added Pin To Net: NetName=VCC5V0 Pin=XHY64-62
+Added Pin To Net: NetName=VCC5V0 Pin=XHY64-69
+Added Pin To Net: NetName=VCC5V0 Pin=XHY64-89
+Added Pin To Net: NetName=VCC5V0 Pin=XHY64-92
+Added Net: Name=VCC5V0
+Added Pin To Net: NetName=VCC13V_OUT1 Pin=K1-2
+Added Net: Name=VCC13V_OUT1
+Added Pin To Net: NetName=VCC13V_OUT2 Pin=K2-2
+Added Net: Name=VCC13V_OUT2
+Added Pin To Net: NetName=VCC13V Pin=D1-1
+Added Pin To Net: NetName=VCC13V Pin=K1-1
+Added Pin To Net: NetName=VCC13V Pin=K2-1
+Added Net: Name=VCC13V
+Added Pin To Net: NetName=X1-1 Pin=K1-3
+Added Pin To Net: NetName=X1-1 Pin=R8-2
+Added Pin To Net: NetName=X1-1 Pin=XHY64-84
+Added Net: Name=X1-1
+Added Pin To Net: NetName=X1-2 Pin=K2-3
+Added Pin To Net: NetName=X1-2 Pin=R9-2
+Added Pin To Net: NetName=X1-2 Pin=XHY64-83
+Added Net: Name=X1-2
+Added Pin To Net: NetName=X1_MCU Pin=C10-2
+Added Pin To Net: NetName=X1_MCU Pin=R4-2
+Added Pin To Net: NetName=X1_MCU Pin=XHY64-72
+Added Net: Name=X1_MCU
+Added Pin To Net: NetName=X2_MCU Pin=C11-1
+Added Pin To Net: NetName=X2_MCU Pin=R4-1
+Added Pin To Net: NetName=X2_MCU Pin=XHY64-73
+Added Net: Name=X2_MCU
+Added Pin To Net: NetName=编程1 Pin=C13-2
+Added Pin To Net: NetName=编程1 Pin=J1-2
+Added Pin To Net: NetName=编程1 Pin=R5-1
+Added Pin To Net: NetName=编程1 Pin=XHY64-50
+Added Net: Name=编程1
+Added Pin To Net: NetName=编程2 Pin=J1-3
+Added Pin To Net: NetName=编程2 Pin=XHY64-90
+Added Net: Name=编程2
+Added Class: Name=电源控制板
+Added Room: Name=电源控制板
